@@ -4,7 +4,7 @@ version: 1.0.0
 development_dependencies:
   kemal:
     github: sdogruyol/kemal
-    branch: master
+    commit: f5d767fe7e02baed9e828ab750ef6809ba94652d
 
 authors:
   - Serdar Dogruyol <dogruyolserdar@gmail.com>
