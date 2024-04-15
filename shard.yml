@@ -3,8 +3,8 @@ version: 1.0.0
 
 development_dependencies:
   kemal:
-    github: sdogruyol/kemal
-    commit: f5d767fe7e02baed9e828ab750ef6809ba94652d
+    github: hostari/kemal
+    branch: v1-2-0
 
 authors:
   - Serdar Dogruyol <dogruyolserdar@gmail.com>
